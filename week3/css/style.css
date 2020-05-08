@@ -46,3 +46,7 @@ body {
 .navbar-brand p span { /* Star-K */
   vertical-align: middle;
 }
+h1 {
+  color:black;
+  text-align: center;
+}
