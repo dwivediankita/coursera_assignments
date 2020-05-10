@@ -41,7 +41,7 @@ body {
 button div {
   width: 30px;
   height: 5px;
-  background-color: #000000;
+  background-color: yellow;
   margin: 3px 0px 4px;
 }
 div button {
@@ -51,7 +51,7 @@ div button {
 div hr.one{
   margin:5px;
   height:3px;
-  color:yelllow;
+  background-color: #a9a9a9;
 }  
 
 
