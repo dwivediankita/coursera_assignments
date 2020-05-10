@@ -17,6 +17,7 @@ body {
 .navbar-brand {
   padding-top: 10px;
   margin-bottom:10px;
+  color: red;
 }
 
 #roundborder{
